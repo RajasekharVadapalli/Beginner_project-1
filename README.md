@@ -14,7 +14,7 @@
 
 * Launch an EC2 instance
 * Install Apache Web-Server
-* Go to the IP address came up on the screen, go to that server and there you can see destination location of html file
+* Check the IP address came up on the screen and go to that server and there you can see destination location of html file
 * Replace the file or you can code html script inside it  
 * Restart your Apache Server and go to your server IP
 * Your website was up and running on that Apache server
